@@ -1,0 +1,9 @@
+I just created Empty Remoterepostory from GitHub.com account by clicking on the plus icon on top rigth aroner and new repostory and give a name and click
+
+
+
+
+
+And Cloned this repository by clicking on Set up in Desktop and (Optionally select the location) click on clone
+
+It cloned our remote repo to local so we can 
